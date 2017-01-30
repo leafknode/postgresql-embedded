@@ -230,6 +230,6 @@
         <hamcrest.version>1.3</hamcrest.version>
         <spring.version>3.2.5.RELEASE</spring.version>
         <deps.slf4j>1.7.12</deps.slf4j>
-        <jdk>1.8</jdk>
+        <jdk>1.7</jdk>
     </properties>
 </project>
